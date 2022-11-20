@@ -1,6 +1,7 @@
-<h1> 😁Jaehun's Introducing </h1>
+<h2 align="center"> Jaehun's Storage </h2>
+<p>😉 Hi, I'm Growing FE-Developer </p>
 <hr>
-  <h2> Contact </h2>
+  <p> Contact </p>
     <ul>
       <li>jaehun990909@gmail.com</li>
       <li>
